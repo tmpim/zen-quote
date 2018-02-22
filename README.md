@@ -22,7 +22,7 @@ zen
 ```
 
 ## Node.js
-```
+```js
 const zen = require("zen-quote");
 
 console.log(zen());
