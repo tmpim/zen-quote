@@ -1,0 +1,25 @@
+{
+  "name": "zen-quote",
+  "version": "1.0.0",
+  "description": "Generate an inspirational quote.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "zen": "./cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lemmmy/zen-quote.git"
+  },
+  "author": "Lemmmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lemmmy/zen-quote/issues"
+  },
+  "homepage": "https://github.com/Lemmmy/zen-quote#readme",
+  "dependencies": {
+    "lodash": "^4.17.5"
+  }
+}
