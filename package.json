@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lemmmy/zen-quote.git"
+    "url": "git+https://github.com/tmpim/zen-quote.git"
   },
   "author": "Lemmmy",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lemmmy/zen-quote/issues"
+    "url": "https://github.com/tmpim/zen-quote/issues"
   },
-  "homepage": "https://github.com/Lemmmy/zen-quote#readme",
+  "homepage": "https://github.com/tmpim/zen-quote#readme",
   "dependencies": {
     "lodash": "^4.17.5"
   }
